@@ -35,3 +35,22 @@ Created a Tableau dashboard integrated with Excel-based analysis to visualize pr
 ---
 
 ## 📂 Folder Structure
+whitewalnut-cafe-sales-optimization/
+│
+├── README.md
+├── Project Summary.pdf
+│
+├── excel/
+│   ├── spoilage_calculation.xlsx
+│   ├── margin_analysis.xlsx
+│   └── data_cleaning_steps.xlsx
+│
+├── tableau/
+│   └── whitewalnut_dashboard.twbx
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── docs/
+    └── insights_presentation.pptx
+
