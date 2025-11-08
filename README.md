@@ -30,7 +30,7 @@ Created a Tableau dashboard integrated with Excel-based analysis to visualize pr
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](Screenshot 2025-06-05 153337.png)
+![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
