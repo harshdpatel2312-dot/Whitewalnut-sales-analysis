@@ -37,8 +37,7 @@ Created a Tableau dashboard integrated with Excel-based analysis to visualize pr
 ## 📂 Folder Structure
 ```
 excel/ - All Excel sheets for data cleaning, margin & spoilage calculations  
-tableau/ - Tableau workbook (.twbx)  
-docs/ - Optional presentations or supporting documents  
+tableau/ - Tableau workbook (.twbx)   
 images/ - Dashboard visuals  
 ```
 
@@ -52,7 +51,6 @@ images/ - Dashboard visuals
 
 ---
 
-**👤 Author:** Harsh Patel  
-**🎓 Role:** Volunteer Research Data Analyst  
+**👤 Author:** Harsh Patel   
 **📅 Tools:** Excel | Tableau | Business Analysis
 
