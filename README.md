@@ -45,7 +45,7 @@ images/ - Dashboard visuals
 
 ## ⚙️ How to Use
 1. Download the Excel and Tableau files.  
-2. Review `spoilage_calculation.xlsx` for margin and waste analysis.  
+2. Review `Cafe_inventory cleaned.xlsx` for margin and waste analysis.  
 3. Open `whitewalnut_dashboard.twbx` in Tableau to explore KPIs and scenarios.  
 4. Adjust parameters to simulate potential profit improvements.
 
