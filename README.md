@@ -35,5 +35,24 @@ Created a Tableau dashboard integrated with Excel-based analysis to visualize pr
 ---
 
 ## 📂 Folder Structure
+```
+excel/ - All Excel sheets for data cleaning, margin & spoilage calculations  
+tableau/ - Tableau workbook (.twbx)  
+docs/ - Optional presentations or supporting documents  
+images/ - Dashboard visuals  
+```
 
+---
+
+## ⚙️ How to Use
+1. Download the Excel and Tableau files.  
+2. Review `spoilage_calculation.xlsx` for margin and waste analysis.  
+3. Open `whitewalnut_dashboard.twbx` in Tableau to explore KPIs and scenarios.  
+4. Adjust parameters to simulate potential profit improvements.
+
+---
+
+**👤 Author:** Harsh Patel  
+**🎓 Role:** Volunteer Research Data Analyst  
+**📅 Tools:** Excel | Tableau | Business Analysis
 
