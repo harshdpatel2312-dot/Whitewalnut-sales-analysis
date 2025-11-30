@@ -14,17 +14,12 @@ This project demonstrates **data cleaning**, **financial analysis**, **data visu
 ---
 
 ## ❗ The Business Problem
-Cafés operate with **thin margins** — even small waste can destroy profitability.
+Whitewalnut Café has limited insight into spoilage costs and low-margin items, causing avoidable profit loss. A data-driven view is needed to support better pricing, waste control, and product decisions.
 
 Whitewalnut Café faced:
 - Perishable inventory going unsold ➝ **spoilage cost**
 - Popular items priced too low ➝ **margin leakage**
 - No visibility into which products were hurting profitability
-
-Leaders needed a **clear, data-driven way** to:
-- Reduce waste
-- Improve product pricing decisions
-- Focus on profitable menu items
 
 I built the solution below 👇
 
@@ -46,7 +41,7 @@ I built the solution below 👇
 ![Whitewalnut Café Dashboard](images/dashboard_preview.png)
 
 ### 📈 Download the Tableau Workbook  
-👉 **Download:** `tableau/whitewalnut_dashboard.twbx`  
+👉 **Download:** `Whitewalnut-sales-analysis.twbx`  
 (Open in Tableau Desktop or Tableau Public)
 
 ---
@@ -62,10 +57,8 @@ I built the solution below 👇
 ## ➕ Next Steps (If Project Continued)
 To further support the café’s growth, I would:
 - Implement **demand forecasting** using historical trends
-- Build **automated alerts** for high spoilage items
-- Introduce **menu engineering** to optimize product mix
+- Validate the dataset in SQL to ensure accuracy before further analysis
 - Connect to POS for **real-time margin monitoring**
-- Expand dataset with **supplier pricing + labor cost**
 
 ---
 
@@ -75,14 +68,6 @@ To further support the café’s growth, I would:
 - Spoilage reasons not categorized (e.g., prep vs. expiry)
 
 Addressing these would enable **more accurate profit modeling**.
-
----
-
-## 🧰 Tools & Skills Demonstrated
-- **Excel:** Data cleaning, spoilage calculations, margin modeling  
-- **Tableau:** KPI dashboards, parameter controls, visual storytelling  
-- **Business Analysis:** Identified profit opportunities & operational fixes  
-- **Scenario Analysis:** Forecast impact of pricing + waste reduction changes  
 
 ---
 
