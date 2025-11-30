@@ -16,11 +16,6 @@ This project demonstrates **data cleaning**, **financial analysis**, **data visu
 ## ❗ The Business Problem
 Whitewalnut Café has limited insight into spoilage costs and low-margin items, causing avoidable profit loss. A data-driven view is needed to support better pricing, waste control, and product decisions.
 
-Whitewalnut Café faced:
-- Perishable inventory going unsold ➝ **spoilage cost**
-- Popular items priced too low ➝ **margin leakage**
-- No visibility into which products were hurting profitability
-
 I built the solution below 👇
 
 ---
